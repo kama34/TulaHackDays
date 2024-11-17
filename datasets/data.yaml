@@ -1,0 +1,13 @@
+train: /home/zemfinder/datasets/train/images
+val: /home/zemfinder/datasets/valid/images
+test: /home/zemfinder/datasets/test/images
+
+nc: 1
+names: ['Building-satellite']
+
+roboflow:
+  workspace: innopolis-pwfnn
+  project: gpsbuildingdetection
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/innopolis-pwfnn/gpsbuildingdetection/2

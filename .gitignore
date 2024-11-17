@@ -1,0 +1,8 @@
+__pycache__
+runs
+input_images
+*.pt
+./*.jpg
+temp
+*.jpg
+valid results
